@@ -127,7 +127,7 @@ hf download IndexTeam/IndexTTS-2 --local-dir=checkpoints_2
 ModelScope 下载：
 
 ```bash
-uv tool install "modelscope"
+uv tool install modelscope-hub
 
 # IndexTTS-2.5
 modelscope download --model IndexTeam/IndexTTS-2.5 --local_dir checkpoints
